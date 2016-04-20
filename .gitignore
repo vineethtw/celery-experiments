@@ -60,3 +60,25 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+=======
+__pycache__/
+.DS_Store
+*.py[cod]
+*.cache
+
+
+# Misc
+env
+venv
+*.eggs
+*.egg-info
+
+
+
+# Build and Packaging 
+build/**
+dist/**
+
+# IDE related 
+.idea/**
+
